@@ -1,0 +1,72 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 2354 >>
+stream
+0.13 0.36 0.97 rg 0 752 595 90 re f
+BT 1 1 1 rg /F2 22 Tf 48 790 Td (IERP Sales Quotation) Tj ET
+BT 1 1 1 rg /F1 11 Tf 48 770 Td (SAMPLE - made for the IERP fake server, not a real offer) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 48 712 Td (Quotation) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 170 712 Td (QUO-2026-0148 \(version 2\)) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 48 692 Td (Customer) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 170 692 Td (Al Noor Medical) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 48 672 Td (Issue date) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 170 672 Td (29 Oct 2026) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 48 652 Td (Valid until) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 170 652 Td (12 Nov 2026) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 48 632 Td (Payment terms) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 170 632 Td (50% advance, the rest on delivery) Tj ET
+BT 0.08 0.13 0.21 rg /F2 10 Tf 48 596 Td (Product) Tj ET
+BT 0.08 0.13 0.21 rg /F2 10 Tf 342.6 596 Td (Qty) Tj ET
+BT 0.08 0.13 0.21 rg /F2 10 Tf 392.0 596 Td (Unit price) Tj ET
+BT 0.08 0.13 0.21 rg /F2 10 Tf 512.2 596 Td (Amount) Tj ET
+0.84 0.88 0.93 RG 1 w 48 586 m 547 586 l S
+BT 0.08 0.13 0.21 rg /F2 11 Tf 48 566 Td (Infusion Pump IP-400) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 354.17 566 Td (4) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 380.03999999999996 566 Td (AED 3,800.00) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 471.21 566 Td (AED 15,200.00) Tj ET
+BT 0.39 0.45 0.55 rg /F1 9 Tf 48 551 Td (Standard - IP400-A) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 48 529 Td (Syringe Pump SP-12) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 354.17 529 Td (1) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 380.03999999999996 529 Td (AED 2,323.81) Tj ET
+BT 0.08 0.13 0.21 rg /F1 11 Tf 477.03999999999996 529 Td (AED 2,323.81) Tj ET
+BT 0.39 0.45 0.55 rg /F1 9 Tf 48 514 Td (Standard - SP12) Tj ET
+0.84 0.88 0.93 RG 1 w 48 492 m 547 492 l S
+BT 0.39 0.45 0.55 rg /F1 11 Tf 330 470 Td (Subtotal) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 464.06 470 Td (AED 17,523.81) Tj ET
+BT 0.39 0.45 0.55 rg /F1 11 Tf 330 448 Td (Tax \(VAT 5%\)) Tj ET
+BT 0.08 0.13 0.21 rg /F2 11 Tf 483.2 448 Td (AED 876.19) Tj ET
+BT 0.08 0.13 0.21 rg /F2 12 Tf 330 426 Td (Total) Tj ET
+BT 0.08 0.13 0.21 rg /F2 12 Tf 456.52 426 Td (AED 18,400.00) Tj ET
+BT 0.39 0.45 0.55 rg /F1 9 Tf 48 60 Td (This one-page PDF is sample data for the IERP Customer App development build only.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000354 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2862
+%%EOF

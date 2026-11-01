@@ -1,12 +1,14 @@
 # fake-Server
 
-Sample pictures for the IERP Customer App's fake server. Only the app's development build ("IERP Dev") shows them, next to fake catalog data; they are not product photos of any real offer.
+Sample pictures and documents for the IERP Customer App's fake server. Only the app's development build ("IERP Dev") shows them, next to fake catalog data; they are not product photos or documents of any real offer.
 
-The fake answers link to the raw files, for example:
+The fake answers link to the files through jsDelivr, for example:
 
 ```
-https://raw.githubusercontent.com/Radwan-sukkari/fake-Server/main/products/infusion_pump.jpg
+https://cdn.jsdelivr.net/gh/Radwan-sukkari/fake-Server@main/products/infusion_pump.jpg
 ```
+
+jsDelivr keeps a copy of `@main` for up to 12 hours, so a new file can take that long to appear.
 
 ## products/
 
@@ -43,3 +45,11 @@ Category icons drawn from [Lucide](https://lucide.dev) icons: 96 × 96 px PNG, b
 | `categories/wind.png` | Respiratory | [wind](https://lucide.dev/icons/wind) |
 | `categories/package.png` | Consumables | [package](https://lucide.dev/icons/package) |
 | `categories/bed.png` | Patient care | [bed](https://lucide.dev/icons/bed) |
+
+## documents/
+
+Sample PDFs made for the fake server (generated, no outside source; free to use like the rest of this repo's own files).
+
+| File | Shows |
+|---|---|
+| `documents/quotation-sample.pdf` | A one-page sample quotation (QUO-2026-0148, AED 18,400.00), opened from the PDF row on C02 Quotation details |
