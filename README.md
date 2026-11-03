@@ -53,3 +53,4 @@ Sample PDFs made for the fake server (generated, no outside source; free to use 
 | File | Shows |
 |---|---|
 | `documents/quotation-sample.pdf` | A one-page sample quotation (QUO-2026-0148, AED 18,400.00), opened from the PDF row on C02 Quotation details |
+| `documents/invoice-sample.pdf` | A one-page sample tax invoice (INV-2026-0182 for SO-2026-0078, AED 8,137.50), opened from the PDF row on C09 Invoice details |
